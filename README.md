@@ -113,9 +113,3 @@ This ensures reliable and trustworthy results.
 This project is licensed under the MIT License.
 
 ---
-
-## 👨‍💻 Author
-
-Jayaaditya
-
-If you find this useful, consider giving the repository a ⭐
